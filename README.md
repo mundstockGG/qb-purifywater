@@ -32,7 +32,7 @@ A customizable QBCore script designed for **zombie survival servers**, allowing 
         close = true
     }
     ```
-3. Add `ensure qb-water-bottle` to your `server.cfg`.
+3. Add `ensure qb-purifywater` to your `server.cfg`.
 
 ## Usage
 - Approach a water source and use the `Fill Bottle` option if you have an empty bottle.
