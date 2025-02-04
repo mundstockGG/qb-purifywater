@@ -10,7 +10,7 @@ A customizable QBCore script designed for **zombie survival servers**, allowing 
 - Supports multiple languages with locales.
 
 ## Installation
-1. Add the `qb-water-bottle` folder to your `resources` directory.
+1. Add the `qb-purifywater` folder to your `resources` directory.
 2. Add the following items to your `ox_inventory/data/items.lua`:
     ```lua
     ['empty_bottle'] = {
